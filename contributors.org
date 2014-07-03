@@ -1,0 +1,4 @@
+| Real Name       | Github User Name | Email                         | Date First Contribution |
+|-----------------+------------------+-------------------------------+-------------------------|
+| James R. Miller | jrmiller82       | james.ryland.miller@gmail.com | July 3rd, 2014          |
+|                 |                  |                               |                         |
