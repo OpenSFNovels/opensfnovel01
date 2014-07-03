@@ -66,8 +66,9 @@ third disasters caused by the protagonists attempts to fix things.
 *** TODO Organize Scenes into Proactive and Reactive
 
 *** TODO Break Scenes down further
-Proactive scenes broken down into Goal, Conflict, Setback
-Reactive scenes broken down into Reaction Dilemma Decision
+Proactive scenes broken down into Goal, Conflict, Setback.
+
+Reactive scenes broken down into Reaction Dilemma Decision.
 
 *** TODO Break Scenes down into Motivation Reaction Units
 
