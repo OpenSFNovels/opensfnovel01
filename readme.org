@@ -1,0 +1,82 @@
+
+* opensfnovel01
+  
+** Last Updated
+July 3rd, 2014
+
+** Short Description 
+
+An open-sourced science-fiction novel written by the community via the
+snowflake top-down method.
+
+** Goal of the Project
+
+The goal of this project is to see if it's possible to create a
+high-quality community-written science-fiction novel. It will be
+written in stages via the [[http://www.advancedfictionwriting.com/articles/snowflake-method/][snowflake method]]. Each stage will be fully
+completed before moving on to the next stage of the snowflake.
+
+** Licensing of the Project
+
+Licensing under the project shall be under the Creative Commons
+CC-BY-SA license version 3.0. For further information, please see the
+included LICENSE file in the repository. 
+
+** Contributing to the Project
+
+By contributing to the project, each contributor is licensing their
+contributions under the same CC-BY-SA license version 3.0 as this main
+project. All contributions must be entirely the contributor's original
+work and not derived from any other source, even including public
+domain information and shall require a typed statement to that effect.
+Contributors shall not be anonymous to help enforce this.
+
+** Planned Stages
+
+This section discusses the planned progression of the project
+according to the snowflake method. We are currently on the first
+stage.
+
+*** TODO Single Sentence Description of the Novel
+
+Approximately 15-word sentence. No character names, think big picture. 
+
+Each contributor shall have a set number of days to vote for their
+favorite three main sentences without any particular order. The three
+sentences that win the initial vote shall be subject to a runoff vote
+with each contributor getting one vote. The winning sentence shall be
+the basis for the novel and we'll move forward to the next stage.
+
+*** TODO Expand the Single Sentence into a full paragraph of 5 sentences
+
+Describe the story setup, three act structure and an ending. Think of
+this like three disasters and an ending. Ideally, with the second and
+third disasters caused by the protagonists attempts to fix things.
+
+*** TODO One-page Character Sheets on Main Characters
+
+*** TODO Expand each sentence of prior paragraph into new 5 sentence paragraph
+
+*** TODO Expand Character sheets for Main characters and synopses and one-pagers on minor characters
+
+*** TODO Full Detail Synopsis, by expanding each sentence of prior into 5 sentences. 
+
+*** TODO Use Synopsis to create sheet of scenes
+
+*** TODO Organize Scenes into Proactive and Reactive
+
+*** TODO Break Scenes down further
+Proactive scenes broken down into Goal, Conflict, Setback
+Reactive scenes broken down into Reaction Dilemma Decision
+
+*** TODO Break Scenes down into Motivation Reaction Units
+
+*** TODO Write Novel according to Motivation Reaction Units
+
+*** TODO Technical Editing and Proofreading
+
+*** TODO Beta Readers and Revisions
+
+*** TODO Release Novel
+
+*** TODO If Successful, Repeat!
