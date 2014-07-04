@@ -18,6 +18,10 @@ come the voting stage.
 
 1. [first submission here]
    
+** Discussion
+Use this section as a placeholder for discussions about story
+lines. Please feel free to make many nested sub headings as needed.
+   
 ** TODO First Vote
    Eventual placeholder for voting.
 ** TODO Runoff Vote
