@@ -16,6 +16,16 @@ high-quality community-written science-fiction novel. It will be
 written in stages via the [[http://www.advancedfictionwriting.com/articles/snowflake-method/][snowflake method]]. Each stage will be fully
 completed before moving on to the next stage of the snowflake.
 
+** Format of the Project
+
+We'll be using org-mode syntax with plain-text files ending in the
+".org" suffix. While using emacs makes org-mode more powerful, for the
+simple markup needs we need for this project, any plain-text editor
+will do. 
+
+Please read the org_quick_tutorial.org file in the repository for a
+quick rundown on the syntax. 
+
 ** Licensing of the Project
 
 Licensing under the project shall be under the Creative Commons
