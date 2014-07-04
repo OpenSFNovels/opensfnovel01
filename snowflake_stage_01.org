@@ -6,6 +6,17 @@ Ideally, I'd like to see 10 or 20 story lines before we get into
 voting. And only contributors with accepted pull requests get to vote
 come the voting stage.
 
+- [ ] To-do list [0/5]
+  - [ ] Get 10-20 story lines
+  - [ ] Hold First Vote
+	- [ ] Set time limit
+	- [ ] Notify contributors of votes
+  - [ ] Hold Run-off Vote
+	- [ ] Set time limit
+	- [ ] Notify contributors of votes
+  - [ ] Crown the Winner
+  - [ ] Move this file to readonly and proceed to stage 02
+
 ** Examples
 
 1. A group of writers come together to create a catching story but may
