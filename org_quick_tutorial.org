@@ -11,32 +11,40 @@ the Mac. Any plain-text editor will do. Emacs just makes the format
 more powerful.
 
 You will want to look at this file in plaintext as opposed to Github's
-rendering so you can see the actual syntax used. 
+HTML automatic rendering so you can see the actual syntax used.
 
 * Headings: Top Level 
 ** This a first subheading
 *** and so on and so forth
-** Second Subheading
-   
+**** and even further
+   	
 * Paragraph formatting
 
-Org-mode does not distinguish white space the same as other
-editors. For example:
+- Org-mode does not distinguish white space the same as other
+  editors. For example:
 
 This 
 will
 render
 as
-the same in a paragraph as the following paragraph.
+the 
+same 
+in 
+a 
+paragraph 
+as 
+the 
+following 
+paragraph.
 
 
 This will render as the same in a paragraph as the following
 paragraph.
 
-It is actually good practice to keep each sentence on a separate line
-and indicate paragraphs with a blank line. This makes looking at
-=diff= files easier in github to see exactly what was changed in
-prose. For example:
+- It is actually good practice to keep each sentence on a separate
+  line and indicate paragraphs with a blank line. This makes looking
+  at =diff= files easier in github to see exactly what was changed in
+  prose. For example:
 
 Here is the first sentence of a paragraph. 
 Here is the second sentence of a paragraph. 
@@ -84,3 +92,8 @@ Spaces and indentation are important just like with ordered lists.
   - Another nested item with a really long line that will stretch to
     the next line of text.
 - Third item
+
+* For further reading
+
+Here is the [[http://orgmode.org/guide/][compact Org-mode guide]] if you are interested in learning
+more about Org-mode.
