@@ -19,6 +19,14 @@ HTML automatic rendering so you can see the actual syntax used.
 *** and so on and so forth
 **** and even further
    	
+* Commenting
+You can even put comments directly into the org files that will not be
+visible upon export. You do this by starting the line with a =#=. I
+will put a comment on the immediately following line and it should not
+show up in Github's html display or other org-mode export formats.
+
+# This is a comment and should not be visible.
+
 * Paragraph formatting
 
 - Org-mode does not distinguish white space the same as other
