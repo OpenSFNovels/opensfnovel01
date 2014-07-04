@@ -3,6 +3,13 @@
 Org-mode is a major mode from the emacs text editor. It is a
 plain-text format similiar to Markdown if you are familiar. 
 
+It is /absolutely not/ required to use emacs to edit an org-mode file
+since it is a plain-text format. It just means that you need to use a
+text-editor as opposed to a word-processor when editing. In other
+words, use notepad instead of word, or use textedit or textwrangler on
+the Mac. Any plain-text editor will do. Emacs just makes the format
+more powerful.
+
 You will want to look at this file in plaintext as opposed to Github's
 rendering so you can see the actual syntax used. 
 
