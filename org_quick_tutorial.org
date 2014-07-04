@@ -1,0 +1,79 @@
+* Org-quick-tutorial
+** What is org-mode?
+Org-mode is a major mode from the emacs text editor. It is a
+plain-text format similiar to Markdown if you are familiar. 
+
+You will want to look at this file in plaintext as opposed to Github's
+rendering so you can see the actual syntax used. 
+
+* Headings: Top Level 
+** This a first subheading
+*** and so on and so forth
+** Second Subheading
+   
+* Paragraph formatting
+
+Org-mode does not distinguish white space the same as other
+editors. For example:
+
+This 
+will
+render
+as
+the same in a paragraph as the following paragraph.
+
+
+This will render as the same in a paragraph as the following
+paragraph.
+
+It is actually good practice to keep each sentence on a separate line
+and indicate paragraphs with a blank line. This makes looking at
+=diff= files easier in github to see exactly what was changed in
+prose. For example:
+
+Here is the first sentence of a paragraph. 
+Here is the second sentence of a paragraph. 
+
+And this should be a new paragraph. 
+With a second sentence.
+   
+* Character formatting
+
+- Bold text :: You surround words with =*....*=. For *example*.
+- Italicized text :: You surround with =/..../=. For /example/.
+- Verbatim text :: You use equal signs. For =example=.  
+
+* Ordered Lists
+  
+Note, spaces are important. Note that multiple lines are indented. 
+
+1. Now is the time for all good men to come to the aid of their
+   country. Now is the time for all good men to come to the aid of
+   their country.
+
+2. Cheesy fries
+
+3. Chips
+
+4. Dogs
+
+   1. Dachshunds
+
+   2. Terriers
+
+   3. Dobermans
+
+   4. Yippy little things 
+
+5. Cats
+
+* Unordered lists
+  
+Spaces and indentation are important just like with ordered lists. 
+  
+- First item
+- Second item
+  - Nested item
+  - Another nested item with a really long line that will stretch to
+    the next line of text.
+- Third item
