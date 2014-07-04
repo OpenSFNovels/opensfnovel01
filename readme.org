@@ -55,9 +55,9 @@ stage.
      picture. The idea is to get the /very/ basic arc of the story in
      one single sentence.
    
-   - These sentences go in the file snowflake_stage_01.org. Try and
-     follow the syntax even if you aren't using emacs to write in
-     org-mode format. 
+   - These sentences go in the file
+     snowflake_stage_01-STORYLINES.org. Try and follow the syntax even
+     if you aren't using emacs to write in org-mode format.
     
    - Each contributor shall have a set number of days to vote for
      their favorite three main sentences without any particular
