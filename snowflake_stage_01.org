@@ -1,0 +1,26 @@
+* Snowflake Stage 01 -- Story Lines
+This is the file where we'll pick our storylines for the very first
+part of the snowflake.
+
+Ideally, I'd like to see 10 or 20 story lines before we get into
+voting. And only contributors with accepted pull requests get to vote
+come the voting stage.
+
+** Examples
+
+1. A group of writers come together to create a catching story but may
+   be thwarted by interest or technology. 
+
+2. A hobbit learns that he must risk his life to destroy a priceless
+   family heirloom to save the world from the Devil. 
+
+** Submissions
+
+1. [first submission here]
+   
+** TODO First Vote
+   Eventual placeholder for voting.
+** TODO Runoff Vote
+   Eventual placeholder for runoff voting.
+** TODO Winning Story Line
+   Eventual placeholder for the winner.
