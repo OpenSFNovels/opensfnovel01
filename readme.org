@@ -26,6 +26,17 @@ will do.
 Please read the org_quick_tutorial.org file in the repository for a
 quick rundown on the syntax. 
 
+And just to be perfectly clear, *you do not have to use Emacs*. You
+can use /any/ plain-text editor that you prefer; you can even use
+Github's web-based editor. 
+
+Org syntax is important to me in that it makes it wonderfully easy to
+export to different formats such as html, latex, pdf, odt, plain text,
+etc..
+
+When we get into writing prose, I'll put together a style guide for
+everyone to follow.
+
 ** Licensing of the Project
 
 Licensing under the project shall be under the Creative Commons
@@ -46,6 +57,10 @@ Contributors shall not be anonymous to help enforce this.
 This section discusses the planned progression of the project
 according to the snowflake method. We are currently on the first
 stage.
+
+The detailed substeps in each stage still need to be fleshed out. If
+anyone has any good ideas, please send me a pull request or submit an
+issue please.
 
 1. TODO Single Sentence Description of the Novel
    
@@ -85,6 +100,7 @@ stage.
 8. TODO Organize Scenes into Proactive and Reactive
 
 9. TODO Break Scenes down further
+
    Proactive scenes broken down into Goal, Conflict, Setback.
 
    Reactive scenes broken down into Reaction Dilemma Decision.
