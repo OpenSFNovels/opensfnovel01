@@ -104,23 +104,23 @@ issue please.
    character-specific sub plots, motivations, desires, fears,
    etc.. Again, this is for consitency purposes. 
 
-6. TODO Full Detail Synopsis, by expanding each sentence of prior into 5 sentences. 
+6. TODO *Full Detail Synopsis, by expanding each sentence of prior into 5 sentences*. 
    
    Back to the plot again, we take the sentences from stage 4 into 5
    sentences each again. 
 
-7. TODO Use Synopsis to create sheet of chapters / scenes
+7. TODO *Use Synopsis to create sheet of chapters / scenes*
    
    We take step 6 and start ordering scenes to march through the
    synopsis. Will need to determine if a table is the best format or
    to use org syntax headings to order the scenes. 
 
-8. TODO Organize Scenes into Proactive and Reactive
+8. TODO *Organize Scenes into Proactive and Reactive*
    
    Scenes are further broken down into proactive scenes and reactive
    scenes. I'll give more detail on this in the future. 
 
-9. TODO Break Scenes down further
+9. TODO *Break Scenes down further*
 
    Proactive scenes broken down into Goal, Conflict, Setback.
 
@@ -128,16 +128,16 @@ issue please.
    
    I'll give more detail on this in the future. 
 
-10. TODO Break Scenes down into Motivation Reaction Units
+10. TODO *Break Scenes down into Motivation Reaction Units*
 	
 	I'll give more detail on this in the future.
 
-11. TODO Write Novel according to Motivation Reaction Units
+11. TODO *Write Novel according to Motivation Reaction Units*
 
-12. TODO Technical Editing and Proofreading
+12. TODO *Technical Editing and Proofreading*
 
-13. TODO Beta Readers and Revisions
+13. TODO *Beta Readers and Revisions*
 
-14. TODO Release Novel
+14. TODO *Release Novel*
 
-15. TODO If Successful, Repeat!
+15. TODO *If Successful, Repeat!*
