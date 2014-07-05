@@ -4,7 +4,9 @@ part of the snowflake.
 
 Ideally, I'd like to see /at least/ 10 or 20 story lines before we get into
 voting. Ideally we'd have a lot more. And only contributors with accepted pull
-requests get to vote come the voting stage.
+requests get to vote come the voting stage. Contributors with many accepted
+pull requests will be given contributor status in Github so they can work on
+the repository directly, assuming they don't abuse their privilege. 
 
 - [ ] To-do list [0/5]
   - [ ] Get 10-20 story lines
