@@ -27,11 +27,29 @@ come the voting stage.
 
 ** Submissions
 
-1. [first submission here]
-   
+1. A space marine must risk destroying Earth to save all of humanity 
+   from an alien invasion.
+
+2. A doctor discovers a horrible secret after she is trapped
+   aboard a colony ship.
+
+3. After being infected by an alien plague, a regular Joe must choose 
+   to save himself or the world. 
+
+4. A hacker must save the world after his prank goes wrong and 
+   starts a robot uprising. 
+
+5. A husband must choose between resurrecting his wife, and burning down 
+   NYC. 
+
 ** Discussion
 Use this section as a placeholder for discussions about story
 lines. Please feel free to make many nested sub headings as needed.
+
+*** July 4th, 2014
+- I was bored on July 4th and added storylines 1--5. If you want to tweak them
+  or riff off of those, please /nest/ them underneath the original story line
+  so we can keep similar story lines together.  
    
 ** TODO First Vote
    Eventual placeholder for voting.
