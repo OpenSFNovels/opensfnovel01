@@ -2,11 +2,12 @@
 This is the file where we'll pick our storylines for the very first
 part of the snowflake.
 
-Ideally, I'd like to see /at least/ 10 or 20 story lines before we get into
-voting. Ideally we'd have a lot more. And only contributors with accepted pull
-requests get to vote come the voting stage. Contributors with many accepted
-pull requests will be given contributor status in Github so they can work on
-the repository directly, assuming they don't abuse their privilege. 
+Ideally, I'd like to see /at least/ 10 or 20 story lines before we get
+into voting. Ideally we'd have a lot more. And only contributors with
+accepted pull requests get to vote come the voting stage. Contributors
+with many accepted pull requests may be given revocable collaborator
+status in Github so they can work on the repository directly, assuming
+they don't abuse their privilege.
 
 - [ ] To-do list [0/5]
   - [ ] Get 10-20 story lines
@@ -22,10 +23,10 @@ the repository directly, assuming they don't abuse their privilege.
 ** Examples
 
 1. A group of writers come together to create a catching story but may
-   be thwarted by interest or technology. 
+   be thwarted by interest or technology.
 
 2. A hobbit learns that he must risk his life to destroy a priceless
-   family heirloom to save the world from the Devil. 
+   family heirloom to save the world from the Devil.
 
 ** Submissions
 
@@ -36,52 +37,61 @@ the repository directly, assuming they don't abuse their privilege.
    aboard a colony ship.
 
 3. After being infected by an alien plague, a regular Joe must choose 
-   to save himself or the world. 
+   to save himself or the world.
+
+   1. After being infected by an alien plague, a regular Joe must choose 
+      to save himself or Denver.
+
+   2. After being infected by an alien plague, a regular Joe must choose 
+      to save himself or Springfield.
+
+   3. After being infected by an alien plague, a regular Joe must choose 
+      to save himself or Chicago.
 
 4. A hacker must save the world after his prank goes wrong and 
-   starts a robot uprising. 
+   starts a robot uprising.
 
-   1. A hacker must save the world after a practical joke inadvertently starts
-      a robot uprising.
+   1. A hacker must save the world after a practical joke
+      inadvertently starts a robot uprising.
 
-   2. A hacker must save the world after his practical joke causes robot dogs
-      to start killing their owners. 
+   2. A hacker must save the world after his practical joke causes
+      robot dogs to start killing their owners.
 
-5. A husband must choose between resurrecting his wife, and burning down 
-   NYC. 
+5. A husband must choose between resurrecting his wife, and burning
+   down NYC.
 
-   1. A husband must choose between resurrecting his wife, and the end of
-      civilization on Earth. 
+   1. A husband must choose between resurrecting his wife, and the end
+      of civilization on Earth.
 
-6. A detective must overcome his hatred of aliens in order to solve his
-   brother's murder. 
+6. A detective must overcome his hatred of aliens in order to solve
+   his brother's murder.
 
    1. A detective must overcome his hatred of aliens to solve his
-      wife's murder. 
+      wife's murder.
 
    2. A detective must overcome his hatred of aliens to solve his
-      girlfriend's murder. 
+      girlfriend's murder.
 
    3. A detective must overcome his hatred of aliens to solve his
-      daughter's murder. 
+      daughter's murder.
 
    4. A detective must overcome his fear of aliens to solve his
-      wife's murder. 
+      wife's murder.
 
    5. A detective must overcome his fear of aliens to solve his
-      girlfriend's murder. 
+      girlfriend's murder.
 
    6. A detective must overcome his fear of aliens to solve his
-      daughter's murder. 
+      daughter's murder.
 
 ** Discussion
 Use this section as a placeholder for discussions about story
 lines. Please feel free to make many nested sub headings as needed.
 
 *** July 4th, 2014
-- I was bored on July 4th and added storylines 1--5. If you want to tweak them
-  or riff off of those, please /nest/ them underneath the original story line
-  so we can keep similar story lines together.  
+- I was bored on July 4th and added storylines 1--5. If you want to
+  tweak them or riff off of those, please /nest/ them underneath the
+  original story line so we can keep similar story lines together.
    
 ** TODO First Vote
    Eventual placeholder for voting.
