@@ -61,7 +61,7 @@ The detailed substeps in each stage still need to be fleshed out. If
 anyone has any good ideas, please send me a pull request or submit an
 issue please.
 
-1. TODO Single Sentence Description of the Novel
+1. TODO *Single Sentence Description of the Novel*
    
    *This is our current stage*
 
@@ -80,25 +80,25 @@ issue please.
      vote. The winning sentence shall be the basis for the novel and
      we'll move forward to the next stage.
 
-2. TODO Expand the Single Sentence into a full paragraph of 5 sentences
+2. TODO *Expand the Single Sentence into a full paragraph of 5 sentences*
 
    Describe the story setup, three act structure and an ending. Think of
    this like three disasters and an ending. Ideally, with the second and
    third disasters caused by the protagonist's attempts to fix things.
 
-3. TODO One-page Character Sheets on Main Characters
+3. TODO *One-page Character Sheets on Main Characters*
    
    These sheets are for consistency purposes to get background details
    hammered out before progressing too far.
 
-4. TODO Expand each sentence of prior paragraph into new 5 sentence paragraph
+4. TODO *Expand each sentence of prior paragraph into new 5 sentence paragraph*
    
    Back to the plot. At the end of this we should have 5 new 5
    sentence paragraphs. Please resist the temptation to put in too
    much. We're getting the /big picture/ stuff in line so we know
    /now/ whether there are any problems with the story.
 
-5. TODO Expand Character sheets for Main characters and synopses and one-pagers on minor characters
+5. TODO *Expand Character sheets for Main characters and synopses and one-pagers on minor characters*
    
    Now we go into much more detail on the characters. Any
    character-specific sub plots, motivations, desires, fears,
