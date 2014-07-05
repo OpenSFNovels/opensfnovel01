@@ -34,7 +34,7 @@ export to different formats such as html, latex, pdf, odt, plain text,
 etc..
 
 When we get into writing prose, I'll put together a style guide for
-everyone to follow.
+everyone to follow that includes both org syntax as well as grammar and other conventions.
 
 ** Licensing of the Project
 
