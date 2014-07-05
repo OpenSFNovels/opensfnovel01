@@ -2,9 +2,9 @@
 This is the file where we'll pick our storylines for the very first
 part of the snowflake.
 
-Ideally, I'd like to see 10 or 20 story lines before we get into
-voting. And only contributors with accepted pull requests get to vote
-come the voting stage.
+Ideally, I'd like to see /at least/ 10 or 20 story lines before we get into
+voting. Ideally we'd have a lot more. And only contributors with accepted pull
+requests get to vote come the voting stage.
 
 - [ ] To-do list [0/5]
   - [ ] Get 10-20 story lines
@@ -47,6 +47,9 @@ come the voting stage.
 
 5. A husband must choose between resurrecting his wife, and burning down 
    NYC. 
+
+6. A detective must overcome his hatred of aliens in order to solve his
+   brother's murder. 
 
 ** Discussion
 Use this section as a placeholder for discussions about story
