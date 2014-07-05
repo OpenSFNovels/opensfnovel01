@@ -87,24 +87,50 @@ issue please.
    third disasters caused by the protagonist's attempts to fix things.
 
 3. TODO One-page Character Sheets on Main Characters
+   
+   These sheets are for consistency purposes to get background details
+   hammered out before progressing too far.
 
 4. TODO Expand each sentence of prior paragraph into new 5 sentence paragraph
+   
+   Back to the plot. At the end of this we should have 5 new 5
+   sentence paragraphs. Please resist the temptation to put in too
+   much. We're getting the /big picture/ stuff in line so we know
+   /now/ whether there are any problems with the story.
 
 5. TODO Expand Character sheets for Main characters and synopses and one-pagers on minor characters
+   
+   Now we go into much more detail on the characters. Any
+   character-specific sub plots, motivations, desires, fears,
+   etc.. Again, this is for consitency purposes. 
 
 6. TODO Full Detail Synopsis, by expanding each sentence of prior into 5 sentences. 
+   
+   Back to the plot again, we take the sentences from stage 4 into 5
+   sentences each again. 
 
-7. TODO Use Synopsis to create sheet of scenes
+7. TODO Use Synopsis to create sheet of chapters / scenes
+   
+   We take step 6 and start ordering scenes to march through the
+   synopsis. Will need to determine if a table is the best format or
+   to use org syntax headings to order the scenes. 
 
 8. TODO Organize Scenes into Proactive and Reactive
+   
+   Scenes are further broken down into proactive scenes and reactive
+   scenes. I'll give more detail on this in the future. 
 
 9. TODO Break Scenes down further
 
    Proactive scenes broken down into Goal, Conflict, Setback.
 
    Reactive scenes broken down into Reaction Dilemma Decision.
+   
+   I'll give more detail on this in the future. 
 
 10. TODO Break Scenes down into Motivation Reaction Units
+	
+	I'll give more detail on this in the future.
 
 11. TODO Write Novel according to Motivation Reaction Units
 
