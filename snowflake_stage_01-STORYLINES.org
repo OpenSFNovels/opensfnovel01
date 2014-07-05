@@ -51,6 +51,24 @@ requests get to vote come the voting stage.
 6. A detective must overcome his hatred of aliens in order to solve his
    brother's murder. 
 
+   1. A detective must overcome his hatred of aliens to solve his
+      wife's murder. 
+
+   2. A detective must overcome his hatred of aliens to solve his
+      girlfriend's murder. 
+
+   3. A detective must overcome his hatred of aliens to solve his
+      daughter's murder. 
+
+   4. A detective must overcome his fear of aliens to solve his
+      wife's murder. 
+
+   5. A detective must overcome his fear of aliens to solve his
+      girlfriend's murder. 
+
+   6. A detective must overcome his fear of aliens to solve his
+      daughter's murder. 
+
 ** Discussion
 Use this section as a placeholder for discussions about story
 lines. Please feel free to make many nested sub headings as needed.
