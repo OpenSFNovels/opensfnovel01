@@ -1,22 +1,20 @@
 #+TITLE: Open Science Fiction Novel 01
-* opensfnovel01
-  
-** Last Updated
+* Last Updated
 July 4th, 2014
 
-** Short Description 
+* Short Description 
 
 An open-sourced science-fiction novel written by the community via the
 snowflake top-down method.
 
-** Goal of the Project
+* Goal of the Project
 
 The goal of this project is to see if it's possible to create a
 high-quality community-written science-fiction novel. It will be
 written in stages via the [[http://www.advancedfictionwriting.com/articles/snowflake-method/][snowflake method]]. Each stage will be fully
 completed before moving on to the next stage of the snowflake.
 
-** Format of the Project
+* Format of the Project
 
 We'll be using org-mode syntax with plain-text files ending in the
 ".org" suffix. While using emacs makes org-mode more powerful, for the
@@ -37,13 +35,13 @@ etc..
 When we get into writing prose, I'll put together a style guide for
 everyone to follow that includes both org syntax as well as grammar and other conventions.
 
-** Licensing of the Project
+* Licensing of the Project
 
 Licensing under the project shall be under the Creative Commons
 CC-BY-SA license version 3.0. For further information, please see the
 included LICENSE file in the repository. 
 
-** Contributing to the Project
+* Contributing to the Project
 
 By contributing to the project, each contributor is licensing their
 contributions under the same CC-BY-SA license version 3.0 as this main
@@ -52,7 +50,7 @@ work and not derived from any other source, even including public
 domain information and shall require a typed statement to that effect.
 Contributors shall not be anonymous to help enforce this.
 
-** Planned Stages
+* Planned Stages
 
 This section discusses the planned progression of the project
 according to the snowflake method. We are currently on the first
