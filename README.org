@@ -1,4 +1,10 @@
 #+TITLE: Open Science Fiction Novel 01
+* Open Science Fiction Novel 01 
+
+Since we don't even know the plot of our story,
+we don't have a specific name yet. When we get farther into the plot, we may
+change the repository name to reflect the title of the novel.  
+
 * Last Updated
 July 4th, 2014
 
