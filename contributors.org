@@ -1,3 +1,8 @@
+
+# Please feel free to put your information without worrying about the table
+# format, I can easily redefine the table with emacs when I do the pull
+# request. 
+
 | Real Name       | Github User Name | Email                         | Date First Contribution |
 |-----------------+------------------+-------------------------------+-------------------------|
 | James R. Miller | jrmiller82       | james.ryland.miller@gmail.com | July 3rd, 2014          |
