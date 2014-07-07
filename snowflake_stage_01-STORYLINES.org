@@ -100,11 +100,18 @@ they don't abuse their privilege.
 
    1. A biologist must save a colony ship from a deadly epidemic.
 
-9. 
+9. A tourist discovers an artifact on vacation that threatens to
+   destroy life on Earth as we know it.
+   
+10. A college student's dog unexpectedly begins speaking and tells him
+    what he must do to save his town from aliens.
 
 ** Discussion
 Use this section as a placeholder for discussions about story
 lines. Please feel free to make many nested sub headings as needed.
+
+Or if this is clunky, we can use Github's /issue tracker/ to keep up
+with things. Or Github's /wiki/. 
 
 *** July 4th, 2014
 - I was bored on July 4th and added storylines 1--5. If you want to
