@@ -6,4 +6,4 @@
 | Real Name       | Github User Name | Email                         | Date First Contribution |
 |-----------------+------------------+-------------------------------+-------------------------|
 | James R. Miller | jrmiller82       | james.ryland.miller@gmail.com | July 3rd, 2014          |
-|                 |                  |                               |                         |
+| Norm MacLennan  | maclennann       | norm.maclennan@gmail.com      | July 9th, 2014          |
