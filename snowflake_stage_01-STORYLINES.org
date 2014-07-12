@@ -120,20 +120,41 @@ they don't abuse their privilege.
 
 	4. A scientist completes an experimental FTL communication device
        when it receives a message from beyond the grave.
+	   
+	5. A scientist receives an FTL communication from aliens; they're
+       coming to Earth in less than a year.
 
 12. A starship must jettison its passengers in stasis pods into deep space
 
     1. A starship comes under attack and must jettison its passengers 
        towards the nearest habitable planet.
 
+	2. A starship comes under attack and must choose between
+       jettisoning its sleeping passengers or almost certain death
+       after being boarded.
+
+	3. A starship comes under attack and must choose between
+       jettisoning its sleeping passengers or surrendering them to
+       organ harvesters.
+
 13. A far-future engineer performs a dangerous and experimental maneuver to
     extract a mysterious object from the event horizon of a black hole.
+
+	1. An engineer risks his and his crew's life to retrieve an alien
+       artifact falling into a black hole.
 
 14. A time-travelling documentary filmmaker suspects one of her crew of
     making subtle changes at their last few shoots.
 
+	1. A time-travelling documentary filmaker suspects her assistant
+       of making subtle changes in the past that threaten the
+       existence of the human race.
+
 15. A pair of journalists team up to solve a series of murders aboard
     an interplanetary cruiseship.
+
+	1. A pair of competing journalists team up to solve a murder of
+       the most famous passenger aboard a tourist space cruiser.
 
 ** Discussion
 Use this section as a placeholder for discussions about story
