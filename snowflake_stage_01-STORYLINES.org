@@ -156,11 +156,14 @@ they don't abuse their privilege.
 	1. A pair of competing journalists team up to solve a murder of
        the most famous passenger aboard a tourist space cruiser.
        
-16. An astronomer at the end of the universe convinces the masses there once were stars.
+16. An astronomer at the end of the universe convinces the masses
+    there once were stars.
 
-17. Two robots with human minds explore space to find a place where they are welcome.
+17. Two robots with human minds explore space to find a place where
+    they are welcome.
 
-18. A mission specialist reunites with her lover after her first interstellar space voyage.  
+18. A mission specialist reunites with her lover after her first
+    interstellar space voyage.
 
 ** Discussion
 Use this section as a placeholder for discussions about story
