@@ -14,7 +14,7 @@ Please, please feel free to post links to this Github repository anywhere you
 think will attract contributors. Thanks in advance!
 
 * Last Updated
-July 12th, 2014
+October 30th, 2014
 
 * Short Description 
 
@@ -92,6 +92,8 @@ issue please.
      subject to a runoff vote with each contributor getting one
      vote. The winning sentence shall be the basis for the novel and
      we'll move forward to the next stage.
+     
+   - Please see the voting file. *It's now time to vote everybody!*
      
       
 
