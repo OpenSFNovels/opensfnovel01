@@ -66,6 +66,9 @@ they don't abuse their privilege.
    2. A hacker must save the world after his practical joke causes
       robot dogs to start killing their owners.
 
+   3. A hacker must decide what to do when his attempt to ignight an
+      uprising to demand equality for sapient AIs does not go as planned.
+
 5. A husband must choose between resurrecting his wife, and burning
    down NYC.
 
@@ -124,6 +127,8 @@ they don't abuse their privilege.
 	5. A scientist receives an FTL communication from aliens; they're
        coming to Earth in less than a year.
 
+    6. A scientist receives an FTL communication "DESTROY THIS DEVICE".
+
 12. A starship must jettison its passengers in stasis pods into deep space
 
     1. A starship comes under attack and must jettison its passengers 
@@ -136,6 +141,9 @@ they don't abuse their privilege.
 	3. A starship comes under attack and must choose between
        jettisoning its sleeping passengers or surrendering them to
        organ harvesters.
+
+    4. A starship must retrieve passengers in stasis pods jettisoned into
+       deep space and discover what happend to the ship they were aboard.
 
 13. A far-future engineer performs a dangerous and experimental maneuver to
     extract a mysterious object from the event horizon of a black hole.
@@ -150,6 +158,11 @@ they don't abuse their privilege.
        of making subtle changes in the past that threaten the
        existence of the human race.
 
+    2. A time-travelling documentary filmaker suspects her assistant
+       of making subtle changes in the past to avert major historical
+       catastrophies asking the question "do we need these tramatic
+       events to progress?".
+
 15. A pair of journalists team up to solve a series of murders aboard
     an interplanetary cruiseship.
 
@@ -163,6 +176,9 @@ they don't abuse their privilege.
     they are welcome.
 	
     1. Two robots with human minds search for a planet to call home. 
+
+    2. Two robots with human minds travel to a planet to find out
+       why they were transfered from their human bodies.
 
 18. A mission specialist reunites with her lover after her first
     interstellar space voyage.
