@@ -13,9 +13,6 @@ more ideas we have the better we'll be able to move beyond the first stage.
 Please, please feel free to post links to this Github repository anywhere you
 think will attract contributors. Thanks in advance!
 
-* Last Updated
-October 30th, 2014
-
 * Short Description 
 
 An open-sourced science-fiction novel written by the community via the
