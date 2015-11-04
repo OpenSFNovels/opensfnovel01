@@ -70,9 +70,7 @@ The detailed substeps in each stage still need to be fleshed out. If
 anyone has any good ideas, please send me a pull request or submit an
 issue please.
 
-1. TODO *Single Sentence Description of the Novel*
-   
-   *This is our current stage*
+1. DONE *Single Sentence Description of the Novel*
 
    - Approximately 15-word sentence. No character names, think big
      picture. The idea is to get the /very/ basic arc of the story in
@@ -94,7 +92,8 @@ issue please.
       
 
 2. TODO *Expand the Single Sentence into a full paragraph of 5 sentences*
-
+   *This is our current stage*
+   
    Describe the story setup, three act structure and an ending. Think of
    this like three disasters and an ending. Ideally, with the second and
    third disasters caused by the protagonist's attempts to fix things.
