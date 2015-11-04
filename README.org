@@ -92,6 +92,7 @@ issue please.
       
 
 2. TODO *Expand the Single Sentence into a full paragraph of 5 sentences*
+
    *This is our current stage*
    
    Describe the story setup, three act structure and an ending. Think of
