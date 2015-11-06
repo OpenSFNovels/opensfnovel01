@@ -16,10 +16,10 @@ robot uprising.=
 ** Paragraphs
 
 1. In the year 2045 a hacker is attempting to penetrate a security contractor's
-network. During the penetration, the hacker inadvertently activates a new
-autonomous robot weapons platform that targets the hacker's residence. In his
-attempts to stop the robot, the hacker triggers a protocol that makes the robot
-recruit other robots. The hacker joins with a [insert government agency] to
-stop the out of control robots, but ends up causing [catastrophic event] due to
-[insert goof of hacker]. The hacker finds a way to create his own robot army to
-beat the out-of-control robots, saving the day. 
+   network. During the penetration, the hacker activates a new autonomous robot
+   weapons platform that targets a friend's residence as a joke. In his attempts
+   to stop the robot, the hacker triggers a protocol that makes the robot recruit
+   other robots. The hacker joins with a [insert government agency] to stop the
+   out of control robots, but ends up causing [catastrophic event] due to [insert
+   goof of hacker]. The hacker finds a way to create his own robot army to beat
+   the out-of-control robots, saving the day. 
