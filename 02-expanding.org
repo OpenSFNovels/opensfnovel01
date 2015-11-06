@@ -10,7 +10,7 @@ and we can see where we overlap or not.
 
 The sentence that we're working with is:
 
-= A hacker must save the world after a practical joke inadvertently starts a
+=A hacker must save the world after a practical joke inadvertently starts a
 robot uprising.=
 
 ** Paragraphs
