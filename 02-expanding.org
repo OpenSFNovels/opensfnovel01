@@ -1,3 +1,25 @@
 * Expand the Single Sentence into a full paragraph of 5 sentences
 
-Describe the story setup, three act structure and an ending. Think of this like three disasters and an ending. Ideally, with the second and third disasters caused by the protagonist’s attempts to fix things.
+Describe the story setup, three act structure and an ending. Think of this like
+three disasters and an ending. Ideally, with the second and third disasters
+caused by the protagonist’s attempts to fix things.
+
+
+Let's each try to do two or three 5-sentence paragraphs to play with the idea
+and we can see where we overlap or not.
+
+The sentence that we're working with is:
+
+= A hacker must save the world after a practical joke inadvertently starts a
+robot uprising.=
+
+** Paragraphs
+
+1. In the year 2045 a hacker is attempting to penetrate a security contractor's
+network. During the penetration, the hacker inadvertently activates a new
+autonomous robot weapons platform that targets the hacker's residence. In his
+attempts to stop the robot, the hacker triggers a protocol that makes the robot
+recruit other robots. The hacker joins with a [insert government agency] to
+stop the out of control robots, but ends up causing [catastrophic event] due to
+[insert goof of hacker]. The hacker finds a way to create his own robot army to
+beat the out-of-control robots, saving the day. 
