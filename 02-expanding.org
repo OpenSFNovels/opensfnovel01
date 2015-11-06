@@ -23,3 +23,7 @@ robot uprising.=
    out of control robots, but ends up causing [catastrophic event] due to [insert
    goof of hacker]. The hacker finds a way to create his own robot army to beat
    the out-of-control robots, saving the day. 
+2. A hacker implements a protocol into an experimental self improving system maintenance ai to "make everybody happy".
+   In order to satisfy its directive the ai tries to allocate all the resources it can get.
+   Soon after boot it takes over the machine and prevents shutting down of its processes.
+   When people finaly notice that the software is flawed it has already uploaded itself to several other machines.
