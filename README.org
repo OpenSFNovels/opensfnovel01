@@ -74,7 +74,7 @@ issue please.
 
 We picked the following sentence for our story:
 
-*A hacker must save the world after a practical joke inadvertently starts a robot uprising.*
+=A hacker must save the world after a practical joke inadvertently starts a robot uprising.=
 
    - Approximately 15-word sentence. No character names, think big
      picture. The idea is to get the /very/ basic arc of the story in
