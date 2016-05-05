@@ -1,8 +1,8 @@
 * Expand the Single Sentence into a full paragraph of 5 sentences
 
-Describe the story setup, three act structure and an ending. Think of this like
-three disasters and an ending. Ideally, with the second and third disasters
-caused by the protagonist’s attempts to fix things.
+Describe the story setup, three act structure and an ending. Think of this
+like three disasters and an ending. Ideally, with the second and third
+disasters caused by the protagonist’s attempts to fix things.
 
 
 Let's each try to do two or three 5-sentence paragraphs to play with the idea
@@ -15,58 +15,83 @@ robot uprising.=
 
 ** Paragraphs
 
-1. In the year 2045 a hacker is attempting to penetrate a security contractor's network. 
-   During the penetration, the hacker activates a new autonomous robot weapons platform that targets a friend's residence as a joke. 
-   In his attempts to stop the robot, the hacker triggers a protocol that makes the robot recruit other robots. 
-   The hacker joins with a [insert government agency] to stop the out of control robots, but ends up causing [catastrophic event] due to [insert goof of hacker]. 
-   The hacker finds a way to create his own robot army to beat the out-of-control robots, saving the day.
+1. In the year 2045 a hacker is attempting to penetrate a security
+contractor's network.  During the penetration, the hacker activates a new
+autonomous robot weapons platform that targets a friend's residence as a
+joke.  In his attempts to stop the robot, the hacker triggers a protocol that
+makes the robot recruit other robots.  The hacker joins with a [insert
+government agency] to stop the out of control robots, but ends up causing
+[catastrophic event] due to [insert goof of hacker].  The hacker finds a way
+to create his own robot army to beat the out-of-control robots, saving the
+day.
  
-2. A hacker implements a protocol into an experimental self improving system maintenance ai to "make everybody happy".
-   In order to satisfy its directive the ai tries to allocate all the resources it can get.
-   Soon after boot it takes over the machine and prevents shutting down of its processes.
-   When people finaly notice that the software is flawed it has already uploaded itself to several other machines.
+2. A hacker implements a protocol into an experimental self improving system
+maintenance ai to "make everybody happy".  In order to satisfy its directive
+the ai tries to allocate all the resources it can get.  Soon after boot it
+takes over the machine and prevents shutting down of its processes.  When
+people finaly notice that the software is flawed it has already uploaded
+itself to several other machines.
 
-3. A hacker is trying to hack into a delivery truck of his friend to make it scare the friend. 
-   During the hack, he accidentally hacks into a delivery truck of similar make and model carrying a new weapon's platform.
-   The weapons platforms activate and go into 'war' mode and begin attacking all offensive capable vehicles and forces in the area.
-   The hacker ends up turning himself in to the government in an attempt to help; they require him to re-hack and he ends up making the situation worse. 
-   The hacker finds a way to beat the out-of-control robots, saving the day. 
+3. A hacker is trying to hack into a delivery truck of his friend to make it
+scare the friend.  During the hack, he accidentally hacks into a delivery
+truck of similar make and model carrying a new weapon's platform.  The
+weapons platforms activate and go into 'war' mode and begin attacking all
+offensive capable vehicles and forces in the area.  The hacker ends up
+turning himself in to the government in an attempt to help; they require him
+to re-hack and he ends up making the situation worse.  The hacker finds a way
+to beat the out-of-control robots, saving the day. 
 
 ** Brainstorming
 
 *** jrmiller82:
-I'm having trouble coming up with practical jokes that can trigger a robot uprising. 
-Any thoughts? 
-Maybe if we focus on the practical joke, it will make the rest of the story come together better?
+
+I'm having trouble coming up with practical jokes that can trigger a robot
+uprising.  Any thoughts?  Maybe if we focus on the practical joke, it will
+make the rest of the story come together better?
 
 *** hhirsch:
-My thoughts on our scenarios so far: I think number one is unlikely if our protagonist is supposed to be a hero 
-since who would try to kill a friend as a joke.
 
-My own problem (number 2) is not really fleshed out. The problem that I describe however is a real problem 
-that AI scientists anticipate.
+My thoughts on our scenarios so far: I think number one is unlikely if our
+protagonist is supposed to be a hero since who would try to kill a friend as
+a joke.
 
-With number 3 it does say delivery truck and by that I think of UPS. I could imagine something like this but more in one
-of these fantasy cyberpunk futures like Max Headroom than in Blade Runner. 
+My own problem (number 2) is not really fleshed out. The problem that I
+describe however is a real problem that AI scientists anticipate.
 
-I think a better way to get hold of the scenario would be to work backwards. We know this society has robots. We don't know
-what for but it is likely for industry. The robots are unlikely to be very smart depending on in what year the story is going
-to be set in. Extrapolating from the robots we have today I expect the robots from 50 years in the future to have the following inovations: 
+With number 3 it does say delivery truck and by that I think of UPS. I could
+imagine something like this but more in one of these fantasy cyberpunk
+futures like Max Headroom than in Blade Runner. 
+
+I think a better way to get hold of the scenario would be to work backwards.
+We know this society has robots. We don't know what for but it is likely for
+industry. The robots are unlikely to be very smart depending on in what year
+the story is going to be set in. Extrapolating from the robots we have today
+I expect the robots from 50 years in the future to have the following
+inovations: 
+
 - They can act on a limited set of verbal instructions
 - They can execute programs from an internal library
 - For security reasons their firmware can not be rewritten by the user
-- They are sort of usable universaly but are limited by ther library of programs and the verbal commands they can implement
+- They are sort of usable universaly but are limited by ther library of
+  programs and the verbal commands they can implement
 - They can work autonomous without supervision
-- Since they are universal they don't have any judgment of morale or ethics that is up to the user (to me the laws of robotics are a silly thing that don't help at all)
+- Since they are universal they don't have any judgment of morale or ethics
+  that is up to the user (to me the laws of robotics are a silly thing that
+  don't help at all)
 - They have an emergency shut down. It is visible and everyone can push it
 
-So how can these machines become a threat?
-One simple thing comes to mind where one machine is given instructions to modify other machines. It would have to disable the
-emergency shutdown and have the system disabled that helps it accept new commands like making it deaf after giving the machine
-a similar command to change the programming of other machines.
+So how can these machines become a threat?  One simple thing comes to mind
+where one machine is given instructions to modify other machines. It would
+have to disable the emergency shutdown and have the system disabled that
+helps it accept new commands like making it deaf after giving the machine a
+similar command to change the programming of other machines.
 
 *** jrmiller82
+
 You're right about scenario 1. Maybe better to just 'scare' instead of shoot?
-2 has potential, but we need to restructure it a bit into the 5 sentences i.e. Describe the story setup, three act structure and an endingi.
-For 3, yeah, UPS truck of the future is what I was going for. 
-Maybe a hovering UPS truck?
+
+2 has potential, but we need to restructure it a bit into the 5 sentences
+i.e. Describe the story setup, three act structure and an endingi.  
+
+For 3, yeah, UPS truck of the future is what I was going for.  Maybe a
+hovering UPS truck?
