@@ -40,8 +40,27 @@ Any thoughts?
 Maybe if we focus on the practical joke, it will make the rest of the story come together better?
 
 *** hhirsch:
-My thoughts on our scenarios so far: I think number one is unlikely since who would try to kill a friend as a joke.
-I think this scenario would only make sense if our protagonist is not really a hero.
-My own problem (number 2) is not really fleshed out. The problem that I describe is a real problem that AI scientists anticipate.
+My thoughts on our scenarios so far: I think number one is unlikely if our protagonist is supposed to be a hero 
+since who would try to kill a friend as a joke.
+
+My own problem (number 2) is not really fleshed out. The problem that I describe however is a real problem 
+that AI scientists anticipate.
+
 With number 3 it does say delivery truck and by that I think of UPS. I could imagine something like this but more in one
 of these fantasy cyberpunk futures like Max Headroom than in Blade Runner. 
+
+I think a better way to get hold of the scenario would be to work backwards. We know this society has robots. We don't know
+what for but it is likely for industry. The robots are unlikely to be very smart depending on in what year the story is going
+to be set in. Extrapolating from the robots we have today I expect the robots from 50 years in the future to have the following inovations: 
+- They can act on a limited set of verbal instructions
+- They can execute programs from an internal library
+- For security reasons their firmware can not be rewritten by the user
+- They are sort of usable universaly but are limited by ther library of programs and the verbal commands they can implement
+- They can work autonomous without supervision
+- Since they are universal they don't have any judgment of morale or ethics that is up to the user (to me the laws of robotics are a silly thing that don't help at all)
+- They have an emergency shut down. It is visible and everyone can push it
+
+So how can these machines become a threat?
+One simple thing comes to mind where one machine is given instructions to modify other machines. It would have to disable the
+emergency shutdown and have the system disabled that helps it accept new commands like making it deaf after giving the machine
+a similar command to change the programming of other machines.
