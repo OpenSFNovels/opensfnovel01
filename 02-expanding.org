@@ -71,13 +71,19 @@ inovations:
 - They can act on a limited set of verbal instructions
 - They can execute programs from an internal library
 - For security reasons their firmware can not be rewritten by the user
-- They are sort of usable universaly but are limited by ther library of
-  programs and the verbal commands they can implement
+  - *But /someone/ must be able to rewrite the firmware, yes?* 
+- They are sort of usable universaly but are limited by ther library of programs
+  and the verbal commands they can implement
+  - *So maybe a normal program applied incorrectly?*
 - They can work autonomous without supervision
+  - *Monitoring function failsafe interprets killer behaviour as normal?*
 - Since they are universal they don't have any judgment of morale or ethics
   that is up to the user (to me the laws of robotics are a silly thing that
   don't help at all)
+  - *Ha. Was about to bring up Asimov's laws.*
 - They have an emergency shut down. It is visible and everyone can push it
+  - *I don't know if I agree this will exist. Lots of room for abuse if it
+    exists.*
 
 So how can these machines become a threat?  One simple thing comes to mind
 where one machine is given instructions to modify other machines. It would
