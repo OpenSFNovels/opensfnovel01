@@ -40,6 +40,16 @@ robot uprising.=
    he ends up making the situation worse. The hacker finds a way to beat the
    out-of-control robots, saving the day.
 
+4. A college student is trying to hack his school's server to change his
+   robotics class grade. Unfortunately, he triggers a research project of his
+   professor that causes mundane robots to try and eat humans as if they were
+   zombies. The college student is attacked by his own servant bot and he tries
+   to go to the professor for help figuring out what's going on, but finds the
+   profesor gravely injured by robots. It turns out the professor was working on
+   a military-grade virus to decimate a country's infrastructure; right as he
+   was about to tell the hacker how to fix it, he dies from his injuries. The
+   hacker finds a way to eradicate the virus, saving the day.
+
 ** Brainstorming
 
 *** jrmiller82:
