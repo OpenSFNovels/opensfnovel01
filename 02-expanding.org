@@ -103,6 +103,17 @@ inovations:
 - They have an emergency shut down. It is visible and everyone can push it
   - *I don't know if I agree this will exist. Lots of room for abuse if it
     exists.*
+    - Think of it this way. A robot is an important asset of industrial production. 
+      The production is a closed environment so people that have no business in there
+      are not there in the first place. Then you'll have people that are in there
+      but don't have any business touching the robot. They could enter the room the
+      robot is in since the door is probably not closed. However I am sure you would
+      protect a robot against reprogramming by using a number pad. They could use the
+      emergency shut down if they just want to do harm to the company but then they
+      would be fired because they've put a halt to production. Now interesting are 
+      robots that are out in the public. These would be on construction sites for
+      example. But they are like any construction equipment off-limits to people
+      getting in there and fidling with equipment is breaking the law.
 
 So how can these machines become a threat?  One simple thing comes to mind
 where one machine is given instructions to modify other machines. It would
