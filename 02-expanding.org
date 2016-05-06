@@ -90,12 +90,27 @@ inovations:
 - They can act on a limited set of verbal instructions
 - They can execute programs from an internal library
 - For security reasons their firmware can not be rewritten by the user
-  - *But /someone/ must be able to rewrite the firmware, yes?* 
+  - *But /someone/ must be able to rewrite the firmware, yes?*
+    - Agreed. Anyone with the right tools and knowledge can do this. I would suspect
+      that it would be less straight forward than just uploading it. There might be
+      an encryption key you need to get that is only available to the manufacturer.
+      These could be stolen or it might be possible that the company does not bother
+      unless they are used for military tasks.
 - They are sort of usable universaly but are limited by ther library of programs
   and the verbal commands they can implement
   - *So maybe a normal program applied incorrectly?*
+    - Sure due to the limited capability to reason and limited sense fo the environment wrong
+      commands or misinterpretation can be catastrophic. Engineers of course will
+      implement a library of emergency stops but I am sure they will be far from
+      perfect and they'd have to find out by manual testing if instructions and
+      programs are save.
 - They can work autonomous without supervision
   - *Monitoring function failsafe interprets killer behaviour as normal?*
+    - That brings something up that I have not thought of before. It is easy to make out
+      a human beeing and implement behaviour that prevents the robot from crushing or hitting it.
+      But as we discussed before it might not be too hard to change the whole OS. Maybe dissasemble
+      it and switch some of the failsafe routines with something else. There are easier methods
+      to commit murder though so this is only feasible if you want to create an uprising in a big way.
 - Since they are universal they don't have any judgment of morale or ethics
   that is up to the user (to me the laws of robotics are a silly thing that
   don't help at all)
@@ -120,6 +135,15 @@ where one machine is given instructions to modify other machines. It would
 have to disable the emergency shutdown and have the system disabled that
 helps it accept new commands like making it deaf after giving the machine a
 similar command to change the programming of other machines.
+
+I'd always have a human as the top guy on all of this. The scenario where
+robots develop the feeling of beeing slaves and fight against their oppressors
+is to me very unlikely because why would I implement such capabilities into
+a machine that is supposed to vakuum the house and wash and fold the laundry
+in the first place. To me robots are usefull because they are not at all human
+that means very physical capable with no agency over what they are going to
+do. They have electronic brains so they can execute logic but only as good as
+their instructions are.
 
 *** jrmiller82
 
